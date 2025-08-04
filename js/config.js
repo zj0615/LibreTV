@@ -119,7 +119,7 @@ const API_SITES = {
         name: '空内容测试源',
         adult: true
     },
-        ckzy: {
+    ckzy: {
         api: 'https://www.ckzy1.com',
         name: 'CK资源',
         adult: true
