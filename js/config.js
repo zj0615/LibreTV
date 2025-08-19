@@ -155,6 +155,120 @@ const API_SITES = {
         name: '玉兔资源',
         adult: true
     },
+    "91madu": {
+        "name": "91麻豆",
+        "api": "https://91md.me/api.php/provide/vod",
+        "detail": "https://91md.me",
+        "adult": true
+    },
+    "AIvin": {
+        "name": "AIvin",
+        "api": "http://lbapiby.com/api.php/provide/vod",
+        "detail": "",
+        "adult": true
+    },
+    "leboziyuan": {
+        "name": "乐播资源",
+        "api": "https://lbapi9.com/api.php/provide/vod",
+        "detail": "",
+        "adult": true
+    },
+    "aosikazi": {
+        "name": "奥斯卡资源",
+        "api": "https://aosikazy.com/api.php/provide/vod",
+        "detail": "https://aosikazy.com",
+        "adult": true
+    },
+    "naixiangxiang": {
+        "name": "奶香香",
+        "api": "https://Naixxzy.com/api.php/provide/vod",
+        "detail": "https://Naixxzy.com",
+        "adult": true
+    },
+    "senlinziyuan": {
+        "name": "森林资源",
+        "api": "https://slapibf.com/api.php/provide/vod",
+        "detail": "https://slapibf.com",
+        "adult": true
+    },
+    "yinshuiji": {
+        "name": "淫水机资源",
+        "api": "https://www.xrbsp.com/api/json.php",
+        "detail": "https://www.xrbsp.com",
+        "adult": true
+    },
+    "yutuziyuan": {
+        "name": "AV-玉兔资源",
+        "api": "https://apiyutu.com/api.php/provide/vod",
+        "detail": "https://apiyutu.com",
+        "adult": true
+    },
+    "fanhaozhiyuan": {
+        "name": "番号资源",
+        "api": "http://fhapi9.com/api.php/provide/vod",
+        "detail": "",
+        "adult": true
+    },
+    "baipiao": {
+        "name": "白嫖资源",
+        "api": "https://www.kxgav.com/api/json.php",
+        "detail": "https://www.kxgav.com",
+        "adult": true
+    },
+    "jingpinziyuan": {
+        "name": "精品资源",
+        "api": "https://www.jingpinx.com/api.php/provide/vod",
+        "detail": "https://www.jingpinx.com",
+        "adult": true
+    },
+    "meishaonv": {
+        "name": "美少女资源",
+        "api": "https://www.msnii.com/api/json.php",
+        "detail": "https://www.msnii.com",
+        "adult": true
+    },
+    "laosebi": {
+        "name": "老色逼资源",
+        "api": "https://apilsbzy1.com/api.php/provide/vod",
+        "detail": "https://apilsbzy1.com",
+        "adult": true
+    },
+    "senanguo": {
+        "name": "色南国",
+        "api": "https://api.sexnguon.com/api.php/provide/vod",
+        "detail": "https://api.sexnguon.com",
+        "adult": true
+    },
+    "semao": {
+        "name": "色猫资源",
+        "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+        "detail": "https://api.maozyapi.com",
+        "adult": true
+    },
+    "lajiao": {
+        "name": "辣椒资源",
+        "api": "https://apilj.com/api.php/provide/vod",
+        "detail": "https://apilj.com",
+        "adult": true
+    },
+    "xiangerziyuan": {
+        "name": "香奶儿资源",
+        "api": "https://www.gdlsp.com/api/json.php",
+        "detail": "https://www.gdlsp.com",
+        "adult": true
+    },
+    "shayuziyuan": {
+        "name": "鲨鱼资源",
+        "api": "https://shayuapi.com/api.php/provide/vod",
+        "detail": "https://shayuapi.com",
+        "adult": true
+    },
+    "huangAV": {
+        "name": "黄AV资源",
+        "api": "https://www.pgxdy.com/api/json.php",
+        "detail": "https://www.pgxdy.com",
+        "adult": true
+    }
     /// 下面是一些成人内容的API源，默认隐藏，使用本项目浏览黄色内容违背项目初衷
     // 互联网上传播的色情内容将人彻底客体化、工具化，是性别解放和人类平等道路上的巨大障碍。
     // 这些黄色影片是资本主义父权制压迫的最恶毒体现，它将暴力和屈辱商品化，践踏人的尊严，对受害者造成无法弥愈的伤害，并毒害社会关系。
