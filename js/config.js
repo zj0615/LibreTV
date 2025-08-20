@@ -268,7 +268,67 @@ const API_SITES = {
         "api": "https://www.pgxdy.com/api/json.php",
         "detail": "https://www.pgxdy.com",
         "adult": true
-    }
+    },
+    "kauiboziyuan": {
+        "api": "https://gayapi.com/api.php/provide/vod",
+        "name": "快播资源网站",
+        "adult": true
+    },
+    "xingbaziyuan": {
+        "api": "https://xingba111.com/api.php/provide/vod",
+        "name": "杏吧资源",
+        "adult": true
+    },
+    "senlinziyuan": {
+        "api": "https://slapibf.com/api.php/provide/vod",
+        "name": "森林资源",
+        "adult": true
+    },
+    "taopian": {
+        "api": "https://taopianapi.com/cjapi/sda/vod",
+        "name": "淘片资源",
+        "adult": true
+    },
+    "yayaziyuan": {
+        "api": "https://cj.yayazy.net/api.php/provide/vod",
+        "name": "鸭鸭资源",
+        "adult": true
+    },
+    "fengchao": {
+        "api": "https://api.fczy888.me/api.php/provide/vod",
+        "name": "蜂巢片库",
+        "adult": true
+    },
+    "dadiziy": {
+        "api": "https://dadiapi.com/api.php/provide/vod",
+        "name": "大地资源网络",
+        "adult": true
+    },
+    "huangseziy": {
+        "api": "https://hsckzy888.com/api.php/provide/vod",
+        "name": "黄色资源啊啊",
+        "adult": true
+    },
+    "xiaojiziy": {
+        "api": "https://api.xiaojizy.live/provide/vod",
+        "name": "小鸡资源",
+        "adult": true
+    },
+    "kauicheziyuan": {
+        "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
+        "name": "快车资源阿",
+        "adult": true
+    },
+    "lajiaoziyu": {
+        "api": "https://apilj.com/api.php/provide/vod",
+        "name": "辣椒资源黄黄",
+        "adult": true
+    },
+    "xibaocaiji": {
+        "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+        "name": "细胞采集黄色",
+        "adult": true
+    },
     /// 下面是一些成人内容的API源，默认隐藏，使用本项目浏览黄色内容违背项目初衷
     // 互联网上传播的色情内容将人彻底客体化、工具化，是性别解放和人类平等道路上的巨大障碍。
     // 这些黄色影片是资本主义父权制压迫的最恶毒体现，它将暴力和屈辱商品化，践踏人的尊严，对受害者造成无法弥愈的伤害，并毒害社会关系。
